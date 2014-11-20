@@ -12,7 +12,7 @@ Horcus Server
 
 ## 系统架构
 
-![架构图](http://horcus.qiniudn.com/horcus.png)
+![架构图](http://horcus.qiniudn.com/horcus.png?3)
 
 ## 架构说明
 
